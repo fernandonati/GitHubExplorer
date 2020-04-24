@@ -17,7 +17,7 @@ A React Web SPA to explore GitHub Repositories.
  - Using local Storage to keep records.
  - Using TypeScript and good separation layers applying the SOLID principles
  - Using https://api.github.com
- - using Styled React Componets.
+ - using Styled React Components.
 
 **How to Use
 <br>
