@@ -11,7 +11,7 @@ A React Web SPA to explore GitHub Repositories.
 </tr>
 </table>
 
-** Can be used to get Details and Issues from GitHuvb Repositories. **<br>
+** Can be used to get Details and Issues from GitHub Repositories. **<br>
  
  - Developed with Javascript - NodeJs using (Express) (Yarn used in this project)<br> 
  - Using local Storage to keep records.
