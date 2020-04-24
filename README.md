@@ -3,7 +3,6 @@ A React Web SPA to explore GitHub Repositories.
 <table width="100%" border="0">
 <tr>
 <td><img src="https://cdn.iconscout.com/icon/free/png-512/react-4-1175110.png" width="120"/></td>
-<td><img src="https://buttercms.com/static/images/tech_banners/webp/ExpressJS.b7bdb4190ea4.webp" width="120"/></td>
 <td><img src="https://miro.medium.com/max/10944/1*xcnJE5kn0pCdZNpFQT86tQ.jpeg" width="120"/></td>
 <td><img src="https://www.bram.us/wordpress/wp-content/uploads/2016/10/yarn-kitten-full.png" width="120"/></td>
 <td><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg"  width="120"/></td>
@@ -13,7 +12,7 @@ A React Web SPA to explore GitHub Repositories.
 
 ** Can be used to get Details and Issues from GitHub Repositories. **<br>
  
- - Developed with Javascript - NodeJs using (Express) (Yarn used in this project)<br> 
+ - Developed with React.Js (Yarn used in this project)<br> 
  - Using local Storage to keep records.
  - Using TypeScript and good separation layers applying the SOLID principles
  - Using https://api.github.com
